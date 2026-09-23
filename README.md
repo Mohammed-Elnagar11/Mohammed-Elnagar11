@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Backend+.NET+Developer;IS+Student+%40+Ain+Shams+University" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Backend+.NET+Developer;Information+Systems+Student+%40+Ain+Shams+University" />
 </p>
 
 <p align="center">
@@ -146,7 +146,6 @@ Codeforces · LeetCode
 
 **Competitive Programming**
 
-Competition Winner · Problem Solving
 
 </td>
 </tr>
@@ -170,7 +169,7 @@ Competition Winner · Problem Solving
 
 ### 💼 Employee Management Portal
 
-[🔗 Repository](#)
+[🔗 Repository](https://github.com/Mohammed-Elnagar11/ITI-.NET-Tasks/tree/main/MVC/SocialMedia)
 
 **ASP.NET Core MVC · C# · EF Core · SQL Server · Identity · AutoMapper**
 
@@ -182,7 +181,7 @@ Developed an N-Tier employee management web application using ASP.NET Core MVC. 
 
 ### 🗄️ School Management System Database
 
-[🔗 Repository](#)
+[🔗 Repository](https://github.com/Mohammed-Elnagar11/School_DB-Tawjeh_Task-)
 
 **SQL Server · T-SQL · Database Design**
 
@@ -196,7 +195,7 @@ Designed and implemented a normalized relational database with constraints, rela
 
 ### 💻 Employee Management System
 
-[🔗 Repository](#)
+[🔗 Repository](https://github.com/Mohammed-Elnagar11/Employee-Management-System-Tawjeh-Task-)
 
 **C# · .NET**
 
@@ -208,7 +207,7 @@ Developed an Employee Management System using OOP, Data Structures, Delegates, a
 
 ### 🌐 Saffron Room
 
-[🔗 Repository](#)
+[🔗 Repository](https://github.com/Mohammed-Elnagar11/Saffron-Room)
 
 **HTML5 · CSS3 · Bootstrap 5 · Font Awesome · JavaScript**
 
@@ -235,8 +234,6 @@ Developed a real-time Computer Vision system using MediaPipe Face Mesh and a Ran
 <td width="50%" valign="top">
 
 ### 🧠 Problem Solving
-
-[🔗 Codeforces](#) · [🔗 LeetCode](#)
 
 **Algorithms · Data Structures · Complexity Analysis**
 
@@ -273,9 +270,15 @@ Competitive Programming Member
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Elnagar11&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Elnagar11&layout=compact&theme=transparent&hide_border=true" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdelmonemanwr&theme=tokyonight" alt="Abdalmonem's Summary" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdelmonemanwr&theme=tokyonight" alt="Top Languages" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdelmonemanwr&theme=tokyonight&utcOffset=2" alt="Productive Time" />
+</p>
+
 
 ---
 
