@@ -270,7 +270,7 @@ Competitive Programming Member
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammed-Elnagar11&theme=tokyonight" alt="Abdalmonem's Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammed-Elnagar11&theme=tokyonight" alt="Mohammed's Summary" />
 </p>
 
 <p align="center">
